@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_MaripazFajardo
+# SC\_302\_Documentacion\_MN\_MaripazFajardo
+
+Esta es mi primera practica en github
+
